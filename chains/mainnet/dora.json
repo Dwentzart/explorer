@@ -1,5 +1,5 @@
 {
-    "chain_name": "DoraVota -testnet",
+    "chain_name": "DoraVota-testnet",
     "coingecko": "",
     "api": ["https://api.dora.roomit.dev"],
     "rpc": ["https://rpc.dora.roomit.dev"],
