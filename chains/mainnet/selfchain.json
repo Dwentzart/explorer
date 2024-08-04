@@ -8,12 +8,12 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "self",
-    "logo": "/logos/selfchain.png",
+    "logo": "https://explorer.dwentz.xyz/logos/selfchain.png",
     "assets": [{
         "base": "uslf",
         "symbol": "SLF",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/selfchain.png"
+        "logo": "https://explorer.dwentz.xyz/logos/selfchain.png"
     }]
 }
