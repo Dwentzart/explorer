@@ -1,0 +1,19 @@
+{
+    "chain_name": "DoraVota -testnet",
+    "coingecko": "",
+    "api": ["https://api.dora.roomit.dev"],
+    "rpc": ["https://rpc.dora.roomit.dev"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.10",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "DORA",
+    "logo": "./logos/dora.jpg",
+    "assets": [{
+        "base": "peaka",
+        "symbol": "peaka",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "./logos/dora.jpg"
+    }]
+}
