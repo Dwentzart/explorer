@@ -13,7 +13,7 @@
         "base": "uslf",
         "symbol": "SLF",
         "exponent": "6",
-        "coingecko_id": "",
+        "coingecko_id": "FRONT",
         "logo": "https://explorer.dwentz.xyz/logos/selfchain.png"
     }]
 }
