@@ -5,7 +5,7 @@
     "rpc": ["https://rpc-selfchain.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.47.10",
-    "coin_type": "118",
+    "coin_type": "6",
     "min_tx_fee": "5000",
     "addr_prefix": "self",
     "logo": "https://explorer.dwentz.xyz/logos/selfchain.png",
@@ -13,7 +13,7 @@
         "base": "uslf",
         "symbol": "SLF",
         "exponent": "6",
-        "coingecko_id": "FRONT",
+        "coingecko_id": "SLF",
         "logo": "https://explorer.dwentz.xyz/logos/selfchain.png"
     }]
 }
