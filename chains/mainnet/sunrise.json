@@ -1,0 +1,19 @@
+{
+    "chain_name": "Sunrise-testnet",
+    "coingecko": "",
+    "api": ["https://d-node.sunrise-test-1.cauchye.net"],
+    "rpc": ["https://c-node.sunrise-test-1.cauchye.net"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.50.3",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "sunrise",
+    "logo": "https://explorer.dwentz.xyz/logos/sunrise.jpg",
+    "assets": [{
+        "base": "uvrise",
+        "symbol": "uvrise",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "https://explorer.dwentz.xyz/logos/sunrise.jpg"
+    }]
+}
